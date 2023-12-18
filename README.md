@@ -4,6 +4,8 @@ Two-Factor Authentication, or 2FA, is like having an extra lock on the door to y
 
 ## Two-Factor Authentication Workflow in Our Application
 
+1. **Registration with 2FA Setup**: When users sign up on our website, they're prompted to set up an extra layer of security-2FA. This involves scanning a QR code using an authenticator app, such as Google Authenticator, to link their account securely.
+
 ## File Structure after development
 
 ```
