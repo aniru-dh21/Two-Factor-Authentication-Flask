@@ -15,6 +15,7 @@ Two-Factor Authentication, or 2FA, is like having an extra lock on the door to y
 This seamless back-and-forth between passwords, authenticator apps, and unique codes ensures that only the rightful account can access the precious content behind the digital doors of your website.
 
 ## Libraries Used
+- <ins>Flask</ins> is a simple, easy-to-use microframework for Python that helps you build scalable and secure web applications.
 
 ## File Structure after development
 
