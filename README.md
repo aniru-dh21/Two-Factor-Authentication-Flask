@@ -2,6 +2,8 @@
 
 Two-Factor Authentication, or 2FA, is like having an extra lock on the door to your online accounts. Instead of just using a password, 2FA adds another layer of security. It's a bit like needing both a key and a special code to open a vault.
 
+## Two-Factor Authentication Workflow in Our Application
+
 ## File Structure after development
 
 ```
