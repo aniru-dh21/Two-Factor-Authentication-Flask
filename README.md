@@ -12,6 +12,8 @@ Two-Factor Authentication, or 2FA, is like having an extra lock on the door to y
 
 4. **Validation and Authorization:** The user inputs the received OTP into our platform. The system then double-checks this OTP against the expected code, validating the information. If the OTP matches, it's like handing over the secret handshake, granting the user access to their account.
 
+This seamless back-and-forth between passwords, authenticator apps, and unique codes ensures that only the rightful account can access the precious content behind the digital doors of your website.
+
 ## File Structure after development
 
 ```
