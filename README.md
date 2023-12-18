@@ -32,3 +32,8 @@ flask db upgrade
 ```
 
 Since this is the first time running our app, we will need to run all the above commands. Later, whenever we make changes to the database, we will just need to run the last two commands. 
+
+4. After that, you can run your application using the command:
+```python
+python manage.py run
+```
