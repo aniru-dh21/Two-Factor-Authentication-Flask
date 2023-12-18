@@ -1,5 +1,38 @@
 # Two Factor Authentication Implementation with PyOTP and Google Authenticator in Your Flask App
 
+## File Structure after development
+
+```
+Two-Factor-Authentication-Flask/
+├── migrations/
+├── src/
+│   ├── accounts/
+│   │   ├── __init__.py
+│   │   ├── forms.py
+│   │   ├── models.py
+│   │   └── views.py
+│   ├── core/
+│   │   ├── __init__.py
+│   │   └── views.py
+│   ├── static/
+│   │   └── styles.css
+│   ├── templates/
+│   │   ├── accounts/
+│   │   │   ├── login.html
+│   │   │   ├── register.html
+│   │   │   ├── setup-2fa.html
+│   │   │   └── verify-2fa.html
+│   │   ├── core/
+│   │   │   └── index.html
+│   │   ├── _base.html
+│   │   └── navigation.html
+│   ├── __init__.py
+│   └── utils.py
+├── .env
+├── config.py
+└── manage.py
+```
+
 ## Clonning the repository 
 
 1. Clone this repository to your local machine:
