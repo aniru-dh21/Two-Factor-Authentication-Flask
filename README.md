@@ -6,6 +6,8 @@ Two-Factor Authentication, or 2FA, is like having an extra lock on the door to y
 
 1. **Registration with 2FA Setup**: When users sign up on our website, they're prompted to set up an extra layer of security-2FA. This involves scanning a QR code using an authenticator app, such as Google Authenticator, to link their account securely.
 
+2. **Login Initiation:** When user return to log in, they start by entering their usual email/username and password combo to access their account.
+
 ## File Structure after development
 
 ```
