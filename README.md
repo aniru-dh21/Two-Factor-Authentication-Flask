@@ -10,6 +10,8 @@ Two-Factor Authentication, or 2FA, is like having an extra lock on the door to y
 
 3. **Extra Security Check:** Before granting access, our website throws in an additional hurdle: users need to provide an OTP (One-Time Password) displayed on their authenticator app. This ensures they're not just entering the password but also confirming their identify with a unique, time-sensitive code.
 
+4. **Validation and Authorization:** The user inputs the received OTP into our platform. The system then double-checks this OTP against the expected code, validating the information. If the OTP matches, it's like handing over the secret handshake, granting the user access to their account.
+
 ## File Structure after development
 
 ```
