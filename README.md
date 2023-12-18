@@ -21,6 +21,7 @@ This seamless back-and-forth between passwords, authenticator apps, and unique c
 - <ins>Flask-WTF</ins> is a simple integration of Flask and WTForms that helps you create forms in Flask.
 - <ins>Flask-Migrate</ins> is an extension that handles SQLAlchemy database migrations for Flask applications using Alembic. The database operations are made available through the Flask command-line interface.
 - <ins>Flask-SQLAlchemy</ins> is an extension for Flask that adds support for SQLAlchemy to your application. It helps you simplify things using SQLAlchemy with Flask by giving you useful defaults and extra helpers that make it easier to perform common tasks.
+- <ins>PyOTP</ins> helps you generate OTPs using Time-based OTP (TOTP) and HMAC-based OTP (HOTP) algorithms effortlessly.
 
 ## File Structure after development
 
