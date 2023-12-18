@@ -16,6 +16,7 @@ This seamless back-and-forth between passwords, authenticator apps, and unique c
 
 ## Libraries Used
 - <ins>Flask</ins> is a simple, easy-to-use microframework for Python that helps you build scalable and secure web applications.
+- <ins>Flask-Login</ins> provides user session management for Flask. It handles the common tasks of logging in, logging out, and remembering your users' sessions over extended periods of time.
 
 ## File Structure after development
 
