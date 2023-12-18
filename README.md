@@ -8,6 +8,8 @@ Two-Factor Authentication, or 2FA, is like having an extra lock on the door to y
 
 2. **Login Initiation:** When user return to log in, they start by entering their usual email/username and password combo to access their account.
 
+3. **Extra Security Check:** Before granting access, our website throws in an additional hurdle: users need to provide an OTP (One-Time Password) displayed on their authenticator app. This ensures they're not just entering the password but also confirming their identify with a unique, time-sensitive code.
+
 ## File Structure after development
 
 ```
