@@ -13,3 +13,5 @@ git clone https://github.com/aniru-dh21/Two-Factor-Authentication-Flask.git
 ```bash
 pip install -r requirements.txt
 ```
+
+## Running the Flask for the First Time
