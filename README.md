@@ -20,3 +20,8 @@ pip install -r requirements.txt
 ```python
 flask db init
 ```
+
+2. To migrate the database changes, use the command:
+```python
+flask db migrate
+```
