@@ -17,3 +17,6 @@ pip install -r requirements.txt
 ## Running the Flask for the First Time
 
 1. To initialize the database (create a migration repository), use the command:
+```python
+flask db init
+```
